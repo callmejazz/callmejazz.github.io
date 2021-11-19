@@ -26,13 +26,13 @@ footer {
 
   }
   .center {
-    display: block;
-    margin-left: auto;
+    margin-left: 45%;
     margin-right: 20%;
     margin-top: 2cm;
     margin-bottom: 2cm;
     width: 50%;
     height: auto;
+    max-width: 50%;
     
   }
   body, html {
