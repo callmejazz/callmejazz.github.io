@@ -33,6 +33,8 @@ footer {
     width: 50%;
     height: auto;
     max-width: 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     
   }
   body, html {
